@@ -1,0 +1,58 @@
+{
+ 
+            "in": {
+                "TXN0021": {
+                    "from": "19941228-1234",
+                    "amount": "300",
+                    "category": "freelance work"
+                },
+                "TXN0022": {
+                    "from": "20010519-5678",
+                    "amount": "500",
+                    "category": "salary"
+                },
+                "TXN0023": {
+                    "from": "19790515-1122",
+                    "amount": "450",
+                    "category": "investment return"
+                },
+                "TXN0024": {
+                    "from": "19640321-3344",
+                    "amount": "300",
+                    "category": "dividends"
+                },
+                "TXN0025": {
+                    "from": "19941228-1234",
+                    "amount": "200",
+                    "category": "gift"
+                }
+            },
+            "out": {
+                "TXN0026": {
+                    "to": "20010519-5678",
+                    "amount": "233",
+                    "category": "groceries"
+                },
+                "TXN0027": {
+                    "to": "19790515-1122",
+                    "amount": "450",
+                    "category": "clothes"
+                },
+                "TXN0028": {
+                    "to": "19640321-3344",
+                    "amount": "350",
+                    "category": "utilities"
+                },
+                "TXN0029": {
+                    "to": "19941228-1234",
+                    "amount": "300",
+                    "category": "rent"
+                },
+                "TXN0030": {
+                    "to": "20010519-5678",
+                    "amount": "250",
+                    "category": "entertainment"
+                }
+            }
+        }
+    

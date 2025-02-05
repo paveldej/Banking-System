@@ -1,0 +1,141 @@
+{
+    "19941228-1234": {
+        "name": "Miki Milan",
+        "password": "aBcDeFgH11101!miki",
+        "account_number": "45360192",
+        "income": 20000,
+        "balance": 16966.800000000003,
+        "cards": [
+            {
+                "card_number": "09747110764061027",
+                "cvv": "630",
+                "pin": "1162",
+                "expiration_date": "2029/11/01",
+                "is_active": false
+            }
+        ],
+        "incomeReceived": false,
+        "loans": {
+            "house_loan": {
+                "amount": 4528.8,
+                "date": "2029-12-13"
+            },
+            "expenses": {
+                "amount": 2433.0,
+                "date": "2029-12-13"
+            }
+        }
+    },
+    "20010519-5678": {
+        "name": "Olof Nilsson",
+        "password": "HgfEwqDs",
+        "account_number": "21752301",
+        "income": 46800,
+        "balance": 102.0,
+        "cards": [
+            {
+                "card_number": "46695333919811107",
+                "cvv": "922",
+                "pin": "1234",
+                "expiration_date": "2029/11/01",
+                "is_active": true
+            },
+            {
+                "card_number": "101055118571165674",
+                "cvv": "710",
+                "pin": "1234",
+                "expiration_date": "2029/11/01",
+                "is_active": true
+            },
+            {
+                "card_number": "073108727506751087",
+                "cvv": "1056",
+                "pin": "2222",
+                "expiration_date": "2029/11/01",
+                "is_active": false
+            },
+            {
+                "card_number": "9470629962137454",
+                "cvv": "007",
+                "pin": "1234",
+                "expiration_date": "2029/11/01",
+                "is_active": false
+            },
+            {
+                "card_number": "6508207194397800",
+                "cvv": "628",
+                "pin": "2222",
+                "expiration_date": "2029/11/01",
+                "is_active": false
+            }
+        ],
+        "incomeReceived": false,
+        "loans": {}
+    },
+    "19871123-9101": {
+        "name": "Anna Eriksson",
+        "password": "XyZpQrSt",
+        "account_number": "84513096",
+        "income": 82400,
+        "balance": 0,
+        "cards": [],
+        "incomeReceived": false,
+        "loans": {}
+    },
+    "19790515-1122": {
+        "name": "Lina Johansson",
+        "password": "UvWbQaNf",
+        "account_number": "73470143",
+        "income": 63900,
+        "balance": 0,
+        "cards": [],
+        "incomeReceived": false,
+        "loans": {}
+    },
+    "19640321-3344": {
+        "name": "Mats Andresson",
+        "password": "KlmNoPtR",
+        "account_number": "70125569",
+        "income": 90500,
+        "balance": 0,
+        "cards": [],
+        "incomeReceived": false,
+        "loans": {}
+    },
+    "20001212-1111": {
+        "name": "Nikola",
+        "password": "A1B2c3d4e5!",
+        "account_number": "16539347",
+        "income": 0,
+        "balance": 0,
+        "cards": [],
+        "incomeReceived": false,
+        "loans": {}
+    },
+    "20010519-5679": {
+        "name": "Patrik Bateman",
+        "password": "1",
+        "income": 40000,
+        "balance": 903105.6,
+        "account_number": "00000033",
+        "cards": [
+            {
+                "card_number": "9681144874870325",
+                "cvv": "648",
+                "pin": "7295",
+                "expiration_date": "2029/12/01",
+                "is_active": true
+            }
+        ],
+        "incomeReceived": false,
+        "loans": {}
+    },
+    "20201212-4352": {
+        "name": "Michael Jordan",
+        "password": "JUmpan62@23",
+        "income": 0,
+        "balance": 0,
+        "account_number": "00000075",
+        "cards": []
+    }
+}

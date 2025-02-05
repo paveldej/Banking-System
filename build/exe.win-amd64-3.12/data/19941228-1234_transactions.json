@@ -1,0 +1,66 @@
+{
+    "in": {
+        "TXN0001": {
+            "from": "20010519-5678",
+            "amount": "500",
+            "category": "freelance work"
+        },
+        "TXN0002": {
+            "from": "19871123-9101",
+            "amount": "450",
+            "category": "salary"
+        },
+        "TXN0003": {
+            "from": "19790515-1122",
+            "amount": "300",
+            "category": "investment return"
+        },
+        "TXN0004": {
+            "from": "19640321-3344",
+            "amount": "200",
+            "category": "dividends"
+        },
+        "TXN0005": {
+            "from": "20010519-5678",
+            "amount": "150",
+            "category": "gift"
+        }
+    },
+    "out": {
+        "TXN0006": {
+            "to": "19871123-9101",
+            "amount": "233",
+            "category": "groceries"
+        },
+        "TXN0007": {
+            "to": "19790515-1122",
+            "amount": "400",
+            "category": "clothes"
+        },
+        "TXN0008": {
+            "to": "19640321-3344",
+            "amount": "150",
+            "category": "utilities"
+        },
+        "TXN0009": {
+            "to": "20010519-5678",
+            "amount": "350",
+            "category": "rent"
+        },
+        "TXN0010": {
+            "to": "19871123-9101",
+            "amount": "500",
+            "category": "entertainment"
+        },
+        "Pav9445418": {
+            "to": "DE43128765579481945399",
+            "amount": 4000.0,
+            "category": "Salam"
+        },
+        "Mik7226556": {
+            "to": "19941228-1234",
+            "amount": 20.0,
+            "category": "Rent"
+        }
+    }
+}
