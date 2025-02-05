@@ -1,0 +1,7 @@
+digraph "classes_my_project" {
+rankdir=BT
+charset="utf-8"
+"bank-system-4.stocks.InvalidAmountOfStocks" [color="black", fontcolor="red", label=<{InvalidAmountOfStocks|<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"bank-system-4.stocks.InvalidPersonalNumberFormat" [color="black", fontcolor="red", label=<{InvalidPersonalNumberFormat|<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"bank-system-4.stocks.StockNotExist" [color="black", fontcolor="red", label=<{StockNotExist|<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+}

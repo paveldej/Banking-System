@@ -1,0 +1,33 @@
+digraph "packages_my_project" {
+rankdir=BT
+charset="utf-8"
+"Banking System" [color="black", label=<>, shape="box", style="solid"];
+"account_overview" [color="black", label=<account_overview>, shape="box", style="solid"];
+"cards" [color="black", label=<cards>, shape="box", style="solid"];
+"converter" [color="black", label=<converter>, shape="box", style="solid"];
+"edit_profile" [color="black", label=<edit_profile>, shape="box", style="solid"];
+"loans" [color="black", label=<loans>, shape="box", style="solid"];
+"login_register" [color="black", label=<login_register>, shape="box", style="solid"];
+"main" [color="black", label=<main>, shape="box", style="solid"];
+"savings" [color="black", label=<savings>, shape="box", style="solid"];
+"stock_api" [color="black", label=<stock_api>, shape="box", style="solid"];
+"stocks" [color="black", label=<stocks>, shape="box", style="solid"];
+"tools" [color="black", label=<tools>, shape="box", style="solid"];
+"transfers" [color="black", label=<transfers>, shape="box", style="solid"];
+"edit_profile" -> "tools" [arrowhead="open", arrowtail="none"];
+"loans" -> "tools" [arrowhead="open", arrowtail="none"];
+"login_register" -> "edit_profile" [arrowhead="open", arrowtail="none"];
+"main" -> "account_overview" [arrowhead="open", arrowtail="none"];
+"main" -> "cards" [arrowhead="open", arrowtail="none"];
+"main" -> "edit_profile" [arrowhead="open", arrowtail="none"];
+"main" -> "loans" [arrowhead="open", arrowtail="none"];
+"main" -> "login_register" [arrowhead="open", arrowtail="none"];
+"main" -> "savings" [arrowhead="open", arrowtail="none"];
+"main" -> "tools" [arrowhead="open", arrowtail="none"];
+"main" -> "transfers" [arrowhead="open", arrowtail="none"];
+"savings" -> "stocks" [arrowhead="open", arrowtail="none"];
+"stocks" -> "login_register" [arrowhead="open", arrowtail="none"];
+"stocks" -> "stock_api" [arrowhead="open", arrowtail="none"];
+"transfers" -> "cards" [arrowhead="open", arrowtail="none"];
+"transfers" -> "converter" [arrowhead="open", arrowtail="none"];
+}
