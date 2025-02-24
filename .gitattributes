@@ -1,0 +1,17 @@
+*.dot linguist-vendored
+
+*.py linguist-detectable=true
+
+*.tcl linguist-vendored
+
+build/** linguist-vendored
+
+*.md linguist-vendored
+*.txt linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.json linguist-vendored
+*.lock linguist-vendored
+*.log linguist-vendored
+*.yaml linguist-vendored
+*.yml linguist-vendored
